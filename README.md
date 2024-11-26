@@ -10,7 +10,7 @@ Modern web testing demands modern solutions, and Playwright has emerged as the g
 - Superior auto-wait and asynchronous testing capabilities
 - Multi-browser support for Chromium, Firefox, and WebKit
 - Network interception and mocking capabilities
-- Rich debugging and codegen tools
+- Rich debugging and codegen toolss
 - Seamless integration with Java tools like JUnit and Cucumber
 
 You’ll learn:
